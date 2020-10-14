@@ -5,6 +5,7 @@ public class multiple_classes {
        Scanner swarna = new Scanner(System.in);
        globe globeObject = new globe("Jatin");
        globeObject.saying();
+       swarna.close();
    }
 }
 
