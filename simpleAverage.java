@@ -13,5 +13,6 @@ public class simpleAverage {
        }
        average = total/10;
        System.out.println("Your average is "+ average);
+       swarna.close();
    }
 }
