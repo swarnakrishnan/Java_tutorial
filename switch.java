@@ -30,6 +30,6 @@ class program{
             System.out.println("Sunday");
             break;
         }
-        
+        swarna.close();
     }
 }
