@@ -14,5 +14,6 @@ class calculator {
         System.out.println(diff);
         mul = fnum* snum;
         System.out.println(mul);
+        swarna.close();
        }   
 }
