@@ -24,5 +24,6 @@ public class practice_4 {
        else {
            System.out.println("You have secured A grade");
        }
+      swarna.close();
    }
 }
