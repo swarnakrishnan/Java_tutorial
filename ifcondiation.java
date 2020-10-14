@@ -14,5 +14,6 @@ public class ifcondiation {
        else{
            System.out.println("It is not a square");
        }
+       swarna.close();
     }
 }
