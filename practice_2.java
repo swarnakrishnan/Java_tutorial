@@ -17,5 +17,6 @@ public class practice_2 {
         else {
             System.out.println("No discount!");
         }
+        swarna.close();
     }
 }
