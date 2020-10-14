@@ -15,5 +15,6 @@ public class compound {
            System.out.println(n +"  "+ total);
        }
        while(n<=20);
+      input.close();
    }
 }
