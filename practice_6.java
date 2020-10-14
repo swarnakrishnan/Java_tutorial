@@ -15,5 +15,6 @@ public class practice_6 {
        else{
            System.out.println("It is not alphabetic character");
        }
+      swarna.close();
    }
 }
