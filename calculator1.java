@@ -30,5 +30,6 @@ public class calculator1{
            System.out.println("Invalid choice");
            break;
        }
+      swarna.close();
    }
 }
