@@ -16,5 +16,6 @@ class operators{
         System.out.println(--b);
         a *= b;
         System.out.println(a);
+        swarna.close();
     }
 }
