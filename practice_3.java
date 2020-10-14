@@ -15,5 +15,6 @@ public class practice_3 {
         else{
             System.out.println("You are not eligible for bonus!");
         }
+        swarna.close();
     }
 }
